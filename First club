@@ -1,0 +1,2 @@
+height = input("What is your name in inches?)
+print("You are " + height + " inches tall")
